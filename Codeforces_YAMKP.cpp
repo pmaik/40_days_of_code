@@ -1,7 +1,7 @@
 /*
     maneesh(maik)
 */
-D. Yet Another Monster Killing Problem
+// D. Yet Another Monster Killing Problem
 
 #include<iostream>
 #include<algorithm>
