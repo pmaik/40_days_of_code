@@ -1,6 +1,9 @@
 /*
     Spoj problem: ORDERSET - Order statistic set
-    Find kth smallest by seg.tree .
+    In this prooblem 2 important concept covered
+    1. Find kth smallest by seg.trer
+    2. Find count of elements less than num.
+    
     In this i have mapped numbers so that they will be in range of 1<= num<= 200000
     Use this link to clear the concept 
     https://www.quora.com/How-do-you-find-the-Kth-smallest-element-in-an-array-using-a-segment-tree-resulting-in-log-n-per-query-OrderSet-SPOJ
